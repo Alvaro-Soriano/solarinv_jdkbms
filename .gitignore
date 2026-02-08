@@ -21,6 +21,6 @@ Thumbs.db
 *.bak
 
 # Claves o configs privadas (si las usas)
-#secrets.h
+secrets.h
 config_private.h
 .env
